@@ -1,3 +1,4 @@
 setup.py
 dist
-build.DS_Store
+build
+.DS_Store
