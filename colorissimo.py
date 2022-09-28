@@ -62,7 +62,7 @@ class ColorTest :
 
     def button_init(self) :
         """Ordonne et crée les boutons de la grille, donne les paramètres aux autres."""
-        self.win.geometry(str(2*110 + 100*self.columns) + 'x' + str(self.rows*100))
+        self.win.geometry(str(110 + 100*self.columns + 120) + 'x' + str(self.rows*100))
         for i in range(self.rows):
             for j in range(self.columns):
                 self.buttons[i,j] = Buttonx(self.win)
