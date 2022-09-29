@@ -12,11 +12,15 @@ Make sure you have installed the following packages:
 - `matplotlib`
 - `tkmacosx` (if you work on mac)
  
-Then run the file `colorissimo.py`, by typing in terminal:  
-$ python -m /path_to_folder/colorissimo.py  
-or  
-$ cd /path_to_folder  
-$ python -m colorissimo.py  
+Then run the file `colorissimo.py`, by typing in terminal:
+```bash
+python -m /path_to_folder/colorissimo.py  
+```
+or
+```bash 
+cd /path_to_folder
+python -m colorissimo.py
+```
 Then enjoy!
 
 ### Creating an app
@@ -24,9 +28,12 @@ Then enjoy!
 #### On MacOs
 An app can be created with the `py2app` package for a simpler use.
 For this, install the `py2app` package, then type in terminal:  
-$ cd path_to_folder  
-$ rm -rf build dist  
-$ python setup.py py2app -A  
+```bash
+For this, install the `py2app` package, then type in terminal:  
+cd path_to_folder
+rm -rf build dist
+python setup.py py2app -A
+```
 The app should then be in the dist folder.
 
 ## Incoming changes
