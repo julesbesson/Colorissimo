@@ -1,7 +1,7 @@
 # Colorissimo
 
 ## Description
-A short program that runs a color test. I personnaly do not believe in such tests, but I did this to prevent my mother from buying a 500€ app from a quack. If you are into these "rits", you should consider taking a step back and look on what you are doing, why you are doing, and how is what you are doing coherent. Although it can be useful to help making a diagnosis on you mental state, it cannot possibly be as powerfull as described by its inventor.
+A short program that runs a color test. I personnaly do not believe in such tests, but I did this to prevent my mother from buying a 500€ app from a quack. If you are into these "rits", you should consider taking a step back and look on what you are doing, why you are doing, and how is what you are doing coherent. Although it can be useful to help making a diagnosis on your mental state, it cannot possibly be as powerfull as described by its inventor.
 
 ## How to use
 First download the whole repository and store it in a folder with path will be denominated by *path_to_folder*.
